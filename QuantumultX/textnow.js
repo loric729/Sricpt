@@ -7,5 +7,5 @@ $done({body: JSON.stringify(obj)});
 
 /*
 #textnow去广告
-^https:\/\/api\.textnow\.me\/api2.0\/users\/.* url script-response-body loric729/QuantumultX/textnow.js
+^https:\/\/api\.textnow\.me\/api2.0\/users\/.* url script-response-body https://raw.githubusercontent.com/loric729/Sricpt/master/QuantumultX/textnow.js
 */
