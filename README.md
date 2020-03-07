@@ -1,2 +1,3 @@
 # Sricpt
-JavaScript for Quantumult&amp;Surge&amp;Loon
+JavaScript for QuantumultX
+
