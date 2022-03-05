@@ -1,19 +1,4 @@
 #Textplus
-
 DOMAIN-SUFFIX,textplus.com
+DOMAIN-SUFFIX,textplus.me
 DOMAIN-KEYWORD,textplus
-HOST-SUFFIX, md.app.nextplus.me, textplus
-HOST-SUFFIX, cdn.jsdelivr.net, textplus
-HOST-SUFFIX, xmpp.prd.gii.me, textplus
-HOST-SUFFIX, cas.prd.gii.me, textplus
-HOST-SUFFIX, mhs.prd.gii.me, textplus
-HOST-SUFFIX, vhs.prd.gii.me, textplus
-HOST-SUFFIX, xmpp.prd.gii.me, textplus
-HOST-SUFFIX, ums.prd.gii.me, textplus
-HOST-SUFFIX, mns.prd.gii.me, textplus
-HOST-SUFFIX, rps.prd.gii.me, textplus
-HOST-SUFFIX, sip.prd.gii.me, textplus
-HOST-SUFFIX, api.gfycat.com, textplus
-HOST-SUFFIX, d3anqlok3m1w2-pic.nextplus.me, textplus
-HOST-SUFFIX, r3.o.lencr.org, textplus
-HOST-SUFFIX, d3anqlok3m1w2-pic.nextplus.me, textplus
