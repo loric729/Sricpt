@@ -1,3 +1,4 @@
+HOST-SUFFIX, md.app.nextplus.me, textplus
 HOST-SUFFIX, cdn.jsdelivr.net, textplus
 HOST-SUFFIX, xmpp.prd.gii.me, textplus
 HOST-SUFFIX, cas.prd.gii.me, textplus
@@ -5,7 +6,6 @@ HOST-SUFFIX, mhs.prd.gii.me, textplus
 HOST-SUFFIX, vhs.prd.gii.me, textplus
 HOST-SUFFIX, xmpp.prd.gii.me, textplus
 HOST-SUFFIX, ums.prd.gii.me, textplus
-HOST-SUFFIX, md.app.nextplus.me, textplus
 HOST-SUFFIX, mns.prd.gii.me, textplus
 HOST-SUFFIX, rps.prd.gii.me, textplus
 HOST-SUFFIX, sip.prd.gii.me, textplus
